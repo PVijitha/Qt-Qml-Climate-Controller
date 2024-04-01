@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>berger.jpg</file>
+        <file>fan.png</file>
+        <file>output-onlinepngtools (3).png</file>
+        <file>output-onlinepngtools.png</file>
+        <file>output-onlinepngtools (1).png</file>
+        <file>output-onlinepngtools (2).png</file>
+        <file>sunny.png</file>
+        <file>tempe.png</file>
+        <file>output-onlinepngtools (4).png</file>
+        <file>output-onlinepngtools (5).png</file>
+        <file>output-onlinepngtools (6).png</file>
+        <file>humidity.png</file>
+        <file>humidity (1).png</file>
+        <file>snow.png</file>
+        <file>output-onlinepngtools (7).png</file>
+        <file>snows.png</file>
+        <file>rainy-day.png</file>
+        <file>cloudy (1).png</file>
+        <file>cool-icon.png</file>
+        <file>cool-icon-white.png</file>
+    </qresource>
+</RCC>
